@@ -1,0 +1,35 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+.square{
+  height: 100px;
+  width: 100px;
+}
+
+.violet{
+  background-color: violet;
+}
+
+.square-1{
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.container{
+  width: 50%;
+  height: 400px;
+  background-color: red;
+}
+
+.blue{
+  background-color: blu;
+}
+
+/* .green{
+  background-color: green;
+  z-index: -1;
+} */
